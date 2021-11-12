@@ -1,0 +1,10 @@
+// para ligar o sv:
+nodemon index.js
+
+--------
+para dar include 
+<%- include('partials/header.ejs); %>
+
+--------
+
+Parei na aula 42 do projeto 1.
